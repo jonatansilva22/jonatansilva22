@@ -19,5 +19,5 @@ I enjoy solving technical problems, improving workflows through software, and bu
 - **Languages:** Python, JavaScript, TypeScript, C#
 - **Backend:** FastAPI, Django, Node.js, Express, ASP.NET
 - **Frontend:** React, Angular
-- **Databases:** MySQL, MongoDB
+- **Databases:** MySQL, SQL Server MongoDB
 - **Cloud & Tools:** AWS, Docker, Git
